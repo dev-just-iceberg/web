@@ -1,0 +1,6 @@
+* {
+    overflow: hidden;
+}
+#sidebar {
+    scroll-behavior: smooth;
+}
