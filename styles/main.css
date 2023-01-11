@@ -3,4 +3,5 @@
 }
 #sidebar {
     scroll-behavior: smooth;
+    overflow: scroll;
 }
